@@ -1,0 +1,9 @@
+body {
+    background-color: #FF958C;
+}
+
+#flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

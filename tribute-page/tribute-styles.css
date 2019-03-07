@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #B38CB4;
+}
+
+#main {
+    width: 80vw;
+    padding-bottom: 1vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #847979;
+    color: #322E18;
+}
+
+#img-div {
+    max-width: 50%;
+}
